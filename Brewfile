@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap 'homebrew/core'
+brew 'abseil'
 brew 'ack'
 brew 'act'
 brew 'aom'
@@ -47,6 +48,7 @@ brew 'harfbuzz'
 brew 'highway'
 brew 'hub'
 brew 'icu4c'
+brew 'icu4c@75'
 brew 'imath'
 brew 'jansson'
 brew 'jpeg-turbo'
@@ -61,6 +63,7 @@ brew 'libassuan'
 brew 'libb2'
 brew 'libbluray'
 brew 'libcbor'
+brew 'libdeflate'
 brew 'libevent'
 brew 'libfido2'
 brew 'libgcrypt'
@@ -139,10 +142,11 @@ brew 'pixman'
 brew 'poppler'
 brew 'pre-commit'
 brew 'prettier'
-brew 'protobuf@21'
+brew 'protobuf'
 brew 'pycparser'
-brew 'python@3.11'
+brew 'python-packaging'
 brew 'python@3.12'
+brew 'python@3.13'
 brew 'rav1e'
 brew 'readline'
 brew 'rtmpdump'
@@ -181,7 +185,9 @@ brew 'zstd'
 
 tap 'homebrew/cask'
 cask '1password'
+cask 'arc'
 cask 'deepl'
+cask 'deskpad'
 cask 'font-hack-nerd-font'
 cask 'font-hackgen'
 cask 'font-hackgen-nerd'
@@ -210,6 +216,7 @@ brew 'ecsk'
 
 # App Store applications
 mas 'Amazon Kindle (7.15.1)', id: 302584613
+mas 'Amphetamine (5.3.2)', id: 937984704
 mas 'Keynote (14.0)', id: 409183694
 mas 'Magnet (2.14.0)', id: 441258766
 mas 'Numbers (14.0)', id: 409203825
