@@ -47,7 +47,6 @@ brew 'graphite2'
 brew 'harfbuzz'
 brew 'highway'
 brew 'hub'
-brew 'icu4c'
 brew 'icu4c@75'
 brew 'imath'
 brew 'jansson'
@@ -114,6 +113,7 @@ brew 'markdown'
 brew 'mas'
 brew 'mbedtls'
 brew 'mecab'
+brew 'mise'
 brew 'mpdecimal'
 brew 'mpg123'
 brew 'msgpack'
@@ -170,6 +170,7 @@ brew 'tree'
 brew 'tree-sitter'
 brew 'unbound'
 brew 'unibilium'
+brew 'usage'
 brew 'utf8proc'
 brew 'webp'
 brew 'wget'
@@ -204,8 +205,11 @@ cask 'session-manager-plugin'
 cask 'tableplus'
 cask 'visual-studio-code'
 cask 'wezterm'
+cask 'zoom'
 
 tap 'homebrew/bundle'
+
+tap 'homebrew/services'
 
 tap 'olets/tap'
 
@@ -217,12 +221,16 @@ tap 'sanemat/font'
 tap 'yukiarrr/tap'
 brew 'ecsk'
 
+# Other Homebrew packages
+brew 'icu4c'
+
 # App Store applications
-mas 'Amazon Kindle (7.15.1)', id: 302584613
+mas 'Amazon Kindle (7.27.1)', id: 302584613
 mas 'Amphetamine (5.3.2)', id: 937984704
 mas 'Keynote (14.0)', id: 409183694
-mas 'Magnet (2.14.0)', id: 441258766
+mas 'LINE (9.6.1)', id: 539883307
+mas 'Magnet (3.0.6)', id: 441258766
 mas 'Numbers (14.0)', id: 409203825
 mas 'Pages (14.0)', id: 409201541
-mas 'Slack (4.39.95)', id: 803453959
-mas 'Xcode (15.4)', id: 497799835
+mas 'Slack (4.42.120)', id: 803453959
+mas 'Xcode (16.2)', id: 497799835
