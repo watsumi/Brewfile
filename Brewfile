@@ -5,6 +5,7 @@ tap 'homebrew/core'
 brew 'abseil'
 brew 'ack'
 brew 'act'
+brew 'allure'
 brew 'aom'
 brew 'aribb24'
 brew 'awscli'
@@ -46,6 +47,8 @@ brew 'graphite2'
 brew 'harfbuzz'
 brew 'highway'
 brew 'hub'
+brew 'icu4c@76'
+brew 'icu4c@77'
 brew 'imath'
 brew 'jansson'
 brew 'jpeg-turbo'
@@ -128,6 +131,7 @@ brew 'nss'
 brew 'oniguruma'
 brew 'opencore-amr'
 brew 'openexr'
+brew 'openjdk'
 brew 'openjpeg'
 brew 'openssl@3'
 brew 'opus'
@@ -144,6 +148,7 @@ brew 'postgresql@14'
 brew 'pre-commit'
 brew 'prettier'
 brew 'protobuf'
+brew 'protobuf@29'
 brew 'pycparser'
 brew 'python-packaging'
 brew 'python@3.12'
@@ -188,6 +193,8 @@ brew 'zstd'
 tap 'homebrew/cask'
 cask '1password'
 cask 'arc'
+cask 'claude'
+cask 'cursor'
 cask 'deepl'
 cask 'deskpad'
 cask 'font-hack-nerd-font'
@@ -219,16 +226,13 @@ tap 'sanemat/font'
 tap 'yukiarrr/tap'
 brew 'ecsk'
 
-# Other Homebrew packages
-brew 'icu4c'
-
 # App Store applications
-mas 'Amazon Kindle (7.27.1)', id: 302584613
+mas 'Amazon Kindle (7.29)', id: 302584613
 mas 'Amphetamine (5.3.2)', id: 937984704
 mas 'Keynote (14.0)', id: 409183694
-mas 'LINE (9.6.1)', id: 539883307
+mas 'LINE (9.7.0)', id: 539883307
 mas 'Magnet (3.0.6)', id: 441258766
 mas 'Numbers (14.0)', id: 409203825
 mas 'Pages (14.0)', id: 409201541
-mas 'Slack (4.42.120)', id: 803453959
-mas 'Xcode (16.2)', id: 497799835
+mas 'Slack (4.43.49)', id: 803453959
+mas 'Xcode (16.3)', id: 497799835
