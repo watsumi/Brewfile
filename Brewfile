@@ -216,6 +216,9 @@ tap 'homebrew/bundle'
 
 tap 'homebrew/services'
 
+tap 'daipeihust/tap'
+brew 'im-select'
+
 tap 'olets/tap'
 
 tap 'rcmdnk/file'
@@ -227,12 +230,12 @@ tap 'yukiarrr/tap'
 brew 'ecsk'
 
 # App Store applications
-mas 'Amazon Kindle (7.29)', id: 302584613
+mas 'Amazon Kindle (7.30)', id: 302584613
 mas 'Amphetamine (5.3.2)', id: 937984704
 mas 'Keynote (14.0)', id: 409183694
-mas 'LINE (9.7.0)', id: 539883307
-mas 'Magnet (3.0.6)', id: 441258766
+mas 'LINE (9.8.0)', id: 539883307
+mas 'Magnet (3.0.7)', id: 441258766
 mas 'Numbers (14.0)', id: 409203825
 mas 'Pages (14.0)', id: 409201541
-mas 'Slack (4.43.49)', id: 803453959
+mas 'Slack (4.43.51)', id: 803453959
 mas 'Xcode (16.3)', id: 497799835
