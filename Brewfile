@@ -218,6 +218,9 @@ tap 'homebrew/bundle'
 
 tap 'homebrew/services'
 
+tap 'laishulu/homebrew'
+brew 'macism'
+
 tap 'daipeihust/tap'
 brew 'im-select'
 
