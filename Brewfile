@@ -198,11 +198,9 @@ cask 'arc'
 cask 'claude'
 cask 'cursor'
 cask 'deepl'
-cask 'deskpad'
 cask 'font-hack-nerd-font'
 cask 'font-hackgen'
 cask 'font-hackgen-nerd'
-cask 'google-chrome'
 cask 'notion-calendar'
 cask 'obsidian'
 cask 'orbstack'
@@ -213,10 +211,6 @@ cask 'tableplus'
 cask 'visual-studio-code'
 cask 'wezterm'
 cask 'zoom'
-
-tap 'homebrew/bundle'
-
-tap 'homebrew/services'
 
 tap 'laishulu/homebrew'
 brew 'macism'
@@ -237,8 +231,6 @@ brew 'ecsk'
 # App Store applications
 mas 'Amazon Kindle (7.30)', id: 302584613
 mas 'Amphetamine (5.3.2)', id: 937984704
-mas 'Keynote (14.0)', id: 409183694
-mas 'LINE (9.8.0)', id: 539883307
 mas 'Magnet (3.0.7)', id: 441258766
 mas 'Numbers (14.0)', id: 409203825
 mas 'Pages (14.0)', id: 409201541
