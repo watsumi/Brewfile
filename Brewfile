@@ -217,6 +217,7 @@ cask 'session-manager-plugin'
 cask 'tableplus'
 cask 'visual-studio-code'
 cask 'wezterm'
+cask 'zen'
 cask 'zoom'
 
 tap 'daipeihust/tap'
@@ -236,7 +237,7 @@ tap 'yukiarrr/tap'
 brew 'ecsk'
 
 # App Store applications
-mas 'Amazon Kindle (7.36)', id: 302584613
+mas 'Amazon Kindle (7.37)', id: 302584613
 mas 'Amphetamine (5.3.2)', id: 937984704
 mas 'Keynote (14.2)', id: 409183694
 mas 'Kindle (1.40.3)', id: 405399194
