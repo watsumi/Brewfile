@@ -196,6 +196,7 @@ brew 'zstd'
 
 tap 'homebrew/cask'
 cask '1password'
+cask 'adobe-acrobat-reader'
 cask 'arc'
 cask 'chatgpt'
 cask 'claude'
