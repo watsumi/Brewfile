@@ -223,6 +223,7 @@ cask 'session-manager-plugin'
 cask 'tableplus'
 cask 'visual-studio-code'
 cask 'wezterm'
+cask 'zed'
 cask 'zen'
 cask 'zoom'
 
@@ -250,5 +251,5 @@ mas 'Kindle (1.40.3)', id: 405399194
 mas 'Magnet (3.0.7)', id: 441258766
 mas 'Numbers (14.2)', id: 409203825
 mas 'Pages (14.2)', id: 409201541
-mas 'Slack (4.45.60)', id: 803453959
+mas 'Slack (4.45.64)', id: 803453959
 mas 'Xcode (16.4)', id: 497799835
