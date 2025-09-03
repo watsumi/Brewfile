@@ -232,6 +232,9 @@ cask 'zoom'
 tap 'daipeihust/tap'
 brew 'im-select'
 
+tap 'kayac/tap'
+brew 'ecspresso'
+
 tap 'laishulu/homebrew'
 brew 'macism'
 
@@ -246,7 +249,7 @@ tap 'yukiarrr/tap'
 brew 'ecsk'
 
 # App Store applications
-mas 'Amazon Kindle (7.38.1)', id: 302584613
+mas 'Amazon Kindle (7.40.1)', id: 302584613
 mas 'Amphetamine (5.3.2)', id: 937984704
 mas 'Keynote (14.2)', id: 409183694
 mas 'Kindle (1.40.3)', id: 405399194
