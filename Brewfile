@@ -229,6 +229,9 @@ cask 'zed'
 cask 'zen'
 cask 'zoom'
 
+tap 'aws/tap'
+brew 'copilot-cli'
+
 tap 'daipeihust/tap'
 brew 'im-select'
 
