@@ -17,6 +17,7 @@ brew 'cairo'
 brew 'cask'
 brew 'cffi'
 brew 'cjson'
+brew 'codex'
 brew 'colordiff'
 brew 'coreutils'
 brew 'cryptography'
@@ -208,7 +209,6 @@ cask 'aws-vault-binary'
 cask 'chatgpt'
 cask 'claude'
 cask 'cursor'
-cask 'deepl'
 cask 'deskpad'
 cask 'discord'
 cask 'font-hack-nerd-font'
@@ -259,5 +259,5 @@ mas 'Kindle (1.40.3)', id: 405399194
 mas 'Magnet (3.0.7)', id: 441258766
 mas 'Numbers (14.2)', id: 409203825
 mas 'Pages (14.2)', id: 409201541
-mas 'Slack (4.45.64)', id: 803453959
+mas 'Slack (4.46.96)', id: 803453959
 mas 'Xcode (16.4)', id: 497799835
