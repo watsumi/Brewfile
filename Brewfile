@@ -17,7 +17,6 @@ brew 'cairo'
 brew 'cask'
 brew 'cffi'
 brew 'cjson'
-brew 'codex'
 brew 'colordiff'
 brew 'coreutils'
 brew 'cryptography'
@@ -41,6 +40,7 @@ brew 'gh'
 brew 'ghq'
 brew 'giflib'
 brew 'git'
+brew 'git-lfs'
 brew 'glib'
 brew 'gmp'
 brew 'gnupg'
@@ -173,6 +173,7 @@ brew 'speex'
 brew 'sqlite'
 brew 'srt'
 brew 'ssh-copy-id'
+brew 'starship'
 brew 'svt-av1'
 brew 'tailwindcss-language-server'
 brew 'tesseract'
@@ -235,9 +236,6 @@ cask 'zoom'
 tap 'aws/tap'
 brew 'copilot-cli'
 
-tap 'laishulu/homebrew'
-brew 'macism'
-
 tap 'daipeihust/tap'
 brew 'im-select'
 
@@ -257,13 +255,16 @@ tap 'sanemat/font'
 tap 'yukiarrr/tap'
 brew 'ecsk'
 
+# Other Homebrew packages
+brew 'codex'
+
 # App Store applications
-mas 'Amazon Kindle (7.40.1)', id: 302584613
+mas 'Amazon Kindle (7.44.1)', id: 302584613
 mas 'Amphetamine (5.3.2)', id: 937984704
 mas 'Keynote (14.2)', id: 409183694
 mas 'Kindle (1.40.3)', id: 405399194
 mas 'Magnet (3.0.7)', id: 441258766
 mas 'Numbers (14.2)', id: 409203825
 mas 'Pages (14.2)', id: 409201541
-mas 'Slack (4.46.96)', id: 803453959
+mas 'Slack (4.46.99)', id: 803453959
 mas 'Xcode (16.4)', id: 497799835
