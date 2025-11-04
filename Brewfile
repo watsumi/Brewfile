@@ -235,6 +235,9 @@ cask 'zoom'
 tap 'aws/tap'
 brew 'copilot-cli'
 
+tap 'laishulu/homebrew'
+brew 'macism'
+
 tap 'daipeihust/tap'
 brew 'im-select'
 
