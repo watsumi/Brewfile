@@ -24,6 +24,7 @@ brew 'ctags'
 brew 'curl'
 brew 'dav1d'
 brew 'diff-so-fancy'
+brew 'diffnav'
 brew 'docker'
 brew 'docker-completion'
 brew 'emacs'
@@ -42,6 +43,7 @@ brew 'gh'
 brew 'ghq'
 brew 'giflib'
 brew 'git'
+brew 'git-delta'
 brew 'git-lfs'
 brew 'glib'
 brew 'gmp'
@@ -250,6 +252,8 @@ brew 'copilot-cli'
 tap 'daipeihust/tap'
 brew 'im-select'
 
+tap 'dlvhdr/formulae'
+
 tap 'kayac/tap'
 brew 'ecspresso'
 
@@ -270,7 +274,7 @@ brew 'ecsk'
 brew 'codex'
 
 # App Store applications
-mas 'Amazon Kindle (7.45.1)', id: 302584613
+mas 'Amazon Kindle (7.46.1)', id: 302584613
 mas 'Amphetamine (5.3.2)', id: 937984704
 mas 'Keynote (14.2)', id: 409183694
 mas 'Kindle (1.40.3)', id: 405399194
