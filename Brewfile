@@ -260,6 +260,7 @@ cask 'wezterm'
 cask 'zed'
 cask 'zen'
 cask 'zoom'
+cask 'zulu@17'
 
 tap 'aws/tap'
 brew 'copilot-cli'
