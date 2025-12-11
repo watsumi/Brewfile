@@ -156,6 +156,7 @@ brew 'neovim'
 brew 'netpbm'
 brew 'nettle'
 brew 'nginx'
+brew 'ni'
 brew 'node'
 brew 'npth'
 brew 'nspr'
@@ -292,7 +293,7 @@ brew 'ecsk'
 brew 'codex'
 
 # App Store applications
-mas 'Amazon Kindle (7.46.1)', id: 302584613
+mas 'Amazon Kindle (7.47)', id: 302584613
 mas 'Amphetamine (5.3.2)', id: 937984704
 mas 'Keynote (14.2)', id: 409183694
 mas 'Kindle (1.40.3)', id: 405399194
