@@ -306,4 +306,4 @@ mas 'Magnet (3.0.7)', id: 441258766
 mas 'Numbers (14.2)', id: 409203825
 mas 'Pages (14.2)', id: 409201541
 mas 'Slack (4.46.99)', id: 803453959
-mas 'Xcode (16.4)', id: 497799835
+mas 'Xcode (26.2)', id: 497799835
