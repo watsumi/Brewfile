@@ -274,6 +274,8 @@ brew 'im-select'
 
 tap 'dlvhdr/formulae'
 
+tap 'hashicorp/tap'
+
 tap 'kayac/tap'
 brew 'ecspresso'
 
