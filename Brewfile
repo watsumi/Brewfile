@@ -302,7 +302,6 @@ brew 'codex'
 mas 'Amazon Kindle (7.47)', id: 302584613
 mas 'Amphetamine (5.3.2)', id: 937984704
 mas 'Keynote (14.2)', id: 409183694
-mas 'Kindle (1.40.3)', id: 405399194
 mas 'Magnet (3.0.7)', id: 441258766
 mas 'Numbers (14.2)', id: 409203825
 mas 'Pages (14.2)', id: 409201541
