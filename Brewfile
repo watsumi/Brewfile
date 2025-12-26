@@ -299,7 +299,7 @@ brew 'ecsk'
 brew 'codex'
 
 # App Store applications
-mas 'Amazon Kindle (7.47)', id: 302584613
+mas 'Amazon Kindle (7.48)', id: 302584613
 mas 'Amphetamine (5.3.2)', id: 937984704
 mas 'Keynote (14.2)', id: 409183694
 mas 'Magnet (3.0.7)', id: 441258766
